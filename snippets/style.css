@@ -1,0 +1,20 @@
+#head{
+    height:10vh;
+    width: 100vw;
+    background-color: grey;
+}
+#nav{
+    height:4vh;
+    width: 100vw;
+    background-color: lightgray;
+}
+#content{
+    height:76vh;
+    width: 100vw;
+    background-color: grey;
+}
+#footer{
+    height:10vh;
+    width: 100vw;
+    background-color: grey;
+}
